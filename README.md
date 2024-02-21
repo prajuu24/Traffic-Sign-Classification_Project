@@ -1,7 +1,9 @@
 **Traffic-Sign-Classification_Project**
+
 This is a Convolutional Neural Network built with TensorFlow and trained to recognize traffic signs. The dataset used is the German Traffic Sign Recognition Benchmark dataset.
 
 **Training and Experimentation Results**
+
 The final model achieves an accuracy of 97.9% on the official GTSRB test dataset.
 
 The model includes my own implementation of batch normalization using a running average estimator of the population moments, along with a few tests and visualizations to see what batch normalization does.
