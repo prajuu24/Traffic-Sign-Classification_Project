@@ -14,7 +14,7 @@ All code, training results, and relevant explanations and comments are contained
 
 1. Python 3.x
 2. TensorFlow 0.1x
-3.Numpy
+3. Numpy
 4. OpenCV
 5. Matplotlib
 
