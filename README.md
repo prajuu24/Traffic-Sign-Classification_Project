@@ -17,4 +17,6 @@ All code, training results, and relevant explanations and comments are contained
 3. Numpy
 4. OpenCV
 5. Matplotlib
+6. HTML
+7. CSS
 
